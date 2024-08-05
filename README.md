@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Abhishek Kuamr</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fanimated-chock-coding-c78f6elj32sfoi8q.gif&tbnid=pPz1f_KOWkv4RM&vet=1&imgrefurl=https%3A%2F%2Fgifdb.com%2Fcoding&docid=mdVHPyU3lxttxM&w=889&h=500&source=sh%2Fx%2Fim%2Fm5%2F1&kgs=9694571ed4be6409&shem=abme%2Ctrie">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <a href="https://twitter.com/abhishekkdev" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkdev?logo=twitter&style=for-the-badge" alt="abhishekkdev" /></a> </p>
 
