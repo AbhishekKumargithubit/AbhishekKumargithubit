@@ -1,19 +1,19 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
 <h1 align="center">Hi 👋, I'm Abhishek Kuamr</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <p align="left"> <a href="https://twitter.com/abhishekkdev" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkdev?logo=twitter&style=for-the-badge" alt="abhishekkdev" /></a> </p>
 
-- 🌱: I’m currently learning **Backed**
+- 🌱 I’m currently learning: **Backed**
 
-- 👨‍💻: All of my projects are available at [https://kumarabhishekpersonalportfolio.netlify.app/](https://kumarabhishekpersonalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://kumarabhishekpersonalportfolio.netlify.app/](https://kumarabhishekpersonalportfolio.netlify.app/)
 
-- 💬: Ask me about **Web Development**
+- 💬 Ask me about: **Web Development**
 
-- 📫: How to reach me **abhishekpradeepkumar7@gmail.com**
+- 📫 How to reach me: **abhishekpradeepkumar7@gmail.com**
 
-- ⚡: Fun fact **I haven’t lost a Git streak since the last time I forgot to push!**
+- ⚡ Fun fact: **I haven’t lost a Git streak since the last time I forgot to push!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
