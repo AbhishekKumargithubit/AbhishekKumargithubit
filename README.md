@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/abhishekkdev" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekkdev?logo=twitter&style=for-the-badge" alt="abhishekkdev" /></a> </p>
 
-- 🌱 I’m currently learning **Backed**
+- 🌱: I’m currently learning **Backed**
 
-- 👨‍💻 All of my projects are available at [https://kumarabhishekpersonalportfolio.netlify.app/](https://kumarabhishekpersonalportfolio.netlify.app/)
+- 👨‍💻: All of my projects are available at [https://kumarabhishekpersonalportfolio.netlify.app/](https://kumarabhishekpersonalportfolio.netlify.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬: Ask me about **Web Development**
 
-- 📫 How to reach me **abhishekpradeepkumar7@gmail.com**
+- 📫: How to reach me **abhishekpradeepkumar7@gmail.com**
 
-- ⚡ Fun fact **I haven’t lost a Git streak since the last time I forgot to push!**
+- ⚡: Fun fact **I haven’t lost a Git streak since the last time I forgot to push!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
